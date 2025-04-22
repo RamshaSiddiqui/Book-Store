@@ -1,0 +1,97 @@
+[{
+        "id":1,
+        "name":"Story book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"0",
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":2,
+        "name":"Thriller book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"20",
+        "category":"Thrill",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"26",
+        "category":"Entertainment",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":3,
+        "name":"Suspence book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"34",
+        "category":"Suspence",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":4,
+        "name":"comic book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"37",
+        "category":"Comic",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":5,
+        "name":"Manga book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"81",
+        "category":"Mange",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"0",
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"60",
+        "category":"Sports",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"0",
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"0",
+        "category":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"0",
+        "category":"Music",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    },
+    {
+        "id":1,
+        "name":"Food book",
+        "tittle":"lorem dfvsvdfvo lsdcv,do",
+        "price":"0",
+        "category":"Food",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729736558~exp=1729740158~hmac=9e692f07a09dadb4dea1fd592b943be270b2442905e7fab53d77508e96bbb2ac&w=740"
+    }
+]
